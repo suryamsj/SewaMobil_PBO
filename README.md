@@ -1,3 +1,6 @@
+# Info
+Project ini adalah project tugas akhir dari matakuliah PBO (Pemrograman Berbasis Objek).
+
 # Guna UI
 Karena project ini menggunakan framework GUNA UI dalam pembuatan design interfacenya, maka jangan lupa untuk mengimport GUNA UI.
 untuk cara importnya, pilih toolbox -> cari general terus klik kanan klik choose item dan Pilih file ada di folder TugasAkhir -> GunaUI\Guna.UI2 WinForms\.net 4.0
@@ -16,3 +19,9 @@ Untuk installer sudah tersedia didalam folder Geek Rental -> Release -> Setup. I
 Jangan lupa sehabis install, pastikan Database sudah terkoneksi dengan benar.
 
 # Screenshot
+<img src="https://i.imgur.com/HkHK5rf.png" alt="Tampilan login dari apps Penyewaan Mobil"/>
+<br>
+<img src="https://i.imgur.com/brm2rxs.png" alt="Tampilan awal dari apps Penyewaan Mobil"/>
+<br>
+<img src="https://i.imgur.com/r5dLHjg.png" alt="Tampilan menu dashboard dari apps Penyewaan Mobil"/>
+<br>
